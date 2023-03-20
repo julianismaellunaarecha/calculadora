@@ -31,6 +31,7 @@ div{
 .entrada{
     background-color: #40ff00;
     display: flex;
+    min-width: 250px;
     margin: 5px 0px 0px 0px;
 }
 
