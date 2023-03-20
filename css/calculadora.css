@@ -1,3 +1,7 @@
+body {
+    background-color: rgb(30, 32, 34);
+}
+
 div{
     display: flex;
 }
@@ -112,8 +116,4 @@ div{
     padding: 20px;
     margin: 20px;
     background-color: rgb(35, 33, 48);
-}
-
-body {
-    background-color: grey;
 }
